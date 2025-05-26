@@ -1,0 +1,5 @@
+{
+  "name": "Test Dog #2",
+  "description": "A local test NFT on Subnet-EVM",
+  "image": "http://localhost:8000/images/2.jpg"
+}
